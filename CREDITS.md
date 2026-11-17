@@ -30,6 +30,11 @@ Musik und Aufnahmen für den Grenzland-Modus von [Pavillon Ratscher](https://myn
 | `radio/km_bushwick.mp3` | Bushwick Tarantella | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300002) |
 | `radio/km_hyperfun.mp3` | Hyperfun | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400038) |
 | `radio/km_waunobe.mp3` | Waunobe March | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100016) |
+| `radio/wm_stillenacht.mp3` | Silent Night | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100075) |
+| `radio/wm_tannenbaum.mp3` | Oh, Christmas Tree | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100366) |
+| `radio/wm_adeste.mp3` | Adeste Fideles Waltz | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100021) |
+| `radio/wm_merrychristmas.mp3` | We Wish you a Merry Christmas | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100369) |
+| `radio/wm_jinglebells.mp3` | Jingle Bells | Kevin MacLeod (incompetech.com) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Seite](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100889) |
 
 ## Filmmusik bei Missionen
 

@@ -439,6 +439,66 @@
    "lurl": "https://creativecommons.org/publicdomain/mark/1.0/",
    "quelle": "https://archive.org/details/aporee_17598_20476",
    "notiz": "Bach im Fichtenwald (Höllegrundsbach) – Ausschnitt von 24 s als Schleife"
+  },
+  {
+   "art": "radio",
+   "gruppe": "Weihnachtsmarkt in Schleusingen (Grenzland)",
+   "datei": "radio/wm_stillenacht.mp3",
+   "titel": "Silent Night",
+   "von": "Kevin MacLeod (incompetech.com)",
+   "lizenz": "CC BY 4.0",
+   "lurl": "https://creativecommons.org/licenses/by/4.0/",
+   "quelle": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100075",
+   "sek": 127.6,
+   "sender": "weihnachtsmarkt"
+  },
+  {
+   "art": "radio",
+   "gruppe": "Weihnachtsmarkt in Schleusingen (Grenzland)",
+   "datei": "radio/wm_tannenbaum.mp3",
+   "titel": "Oh, Christmas Tree",
+   "von": "Kevin MacLeod (incompetech.com)",
+   "lizenz": "CC BY 4.0",
+   "lurl": "https://creativecommons.org/licenses/by/4.0/",
+   "quelle": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100366",
+   "sek": 49.1,
+   "sender": "weihnachtsmarkt"
+  },
+  {
+   "art": "radio",
+   "gruppe": "Weihnachtsmarkt in Schleusingen (Grenzland)",
+   "datei": "radio/wm_adeste.mp3",
+   "titel": "Adeste Fideles Waltz",
+   "von": "Kevin MacLeod (incompetech.com)",
+   "lizenz": "CC BY 4.0",
+   "lurl": "https://creativecommons.org/licenses/by/4.0/",
+   "quelle": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2100021",
+   "sek": 135.3,
+   "sender": "weihnachtsmarkt"
+  },
+  {
+   "art": "radio",
+   "gruppe": "Weihnachtsmarkt in Schleusingen (Grenzland)",
+   "datei": "radio/wm_merrychristmas.mp3",
+   "titel": "We Wish you a Merry Christmas",
+   "von": "Kevin MacLeod (incompetech.com)",
+   "lizenz": "CC BY 4.0",
+   "lurl": "https://creativecommons.org/licenses/by/4.0/",
+   "quelle": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100369",
+   "sek": 130.9,
+   "sender": "weihnachtsmarkt"
+  },
+  {
+   "art": "radio",
+   "gruppe": "Weihnachtsmarkt in Schleusingen (Grenzland)",
+   "datei": "radio/wm_jinglebells.mp3",
+   "titel": "Jingle Bells",
+   "von": "Kevin MacLeod (incompetech.com)",
+   "lizenz": "CC BY 4.0",
+   "lurl": "https://creativecommons.org/licenses/by/4.0/",
+   "quelle": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100889",
+   "sek": 138.8,
+   "sender": "weihnachtsmarkt"
   }
  ]
 }
